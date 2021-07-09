@@ -1,9 +1,13 @@
-# Demo-ShazamKit
+# Demo Projects
 
-*Updated for Xcode 13 beta 2.*
-
-<!--
-This demo project is associated with my article [ShazamKit: A first look](https://yaacoub.github.io/articles/swift/shazamkit-a-first-look/).
+A collection of all the demo projects I made.
 <br>
--->
-It is built using SwiftUI and ShazamKit.
+Most of them are associated with an article I published on my website.
+
+## Swift
+
+- 2021/07/28 - [ShazamKit: A first look](<Swift/ShazamKit - A first look>)
+
+## Swift Tips
+
+- 2021/07/28 - [Animate UICollectionViewCell highlight](<Swift Tips/Animate UICollectionViewCell highlight>)

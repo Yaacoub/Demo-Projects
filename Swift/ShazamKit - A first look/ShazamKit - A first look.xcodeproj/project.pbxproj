@@ -28,8 +28,8 @@
 		D0C0644E269707A600948EFE /* Demo_ShazamKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_ShazamKitApp.swift; sourceTree = "<group>"; };
 		D0C0644F269707A600948EFE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D0C06450269707A800948EFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D0C06455269707A800948EFE /* Demo-ShazamKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Demo-ShazamKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0C0645B269707A800948EFE /* Demo-ShazamKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Demo-ShazamKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0C06455269707A800948EFE /* ShazamKit - A first look.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ShazamKit - A first look.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0C0645B269707A800948EFE /* ShazamKit - A first look.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ShazamKit - A first look.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0C064752697094E00948EFE /* SongMatch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongMatch.swift; sourceTree = "<group>"; };
 		D0C064772697094E00948EFE /* ContentViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		D0C064A02697100600948EFE /* Audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Audio.mp3; sourceTree = "<group>"; };
@@ -78,8 +78,8 @@
 		D0C06456269707A800948EFE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D0C06455269707A800948EFE /* Demo-ShazamKit.app */,
-				D0C0645B269707A800948EFE /* Demo-ShazamKit.app */,
+				D0C06455269707A800948EFE /* ShazamKit - A first look.app */,
+				D0C0645B269707A800948EFE /* ShazamKit - A first look.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -111,9 +111,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D0C06454269707A800948EFE /* Demo-ShazamKit (iOS) */ = {
+		D0C06454269707A800948EFE /* ShazamKit - A first look (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0C06464269707A800948EFE /* Build configuration list for PBXNativeTarget "Demo-ShazamKit (iOS)" */;
+			buildConfigurationList = D0C06464269707A800948EFE /* Build configuration list for PBXNativeTarget "ShazamKit - A first look (iOS)" */;
 			buildPhases = (
 				D0C06451269707A800948EFE /* Sources */,
 				D0C06452269707A800948EFE /* Frameworks */,
@@ -123,14 +123,14 @@
 			);
 			dependencies = (
 			);
-			name = "Demo-ShazamKit (iOS)";
+			name = "ShazamKit - A first look (iOS)";
 			productName = "Demo-ShazamKit (iOS)";
-			productReference = D0C06455269707A800948EFE /* Demo-ShazamKit.app */;
+			productReference = D0C06455269707A800948EFE /* ShazamKit - A first look.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D0C0645A269707A800948EFE /* Demo-ShazamKit (macOS) */ = {
+		D0C0645A269707A800948EFE /* ShazamKit - A first look (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0C06467269707A800948EFE /* Build configuration list for PBXNativeTarget "Demo-ShazamKit (macOS)" */;
+			buildConfigurationList = D0C06467269707A800948EFE /* Build configuration list for PBXNativeTarget "ShazamKit - A first look (macOS)" */;
 			buildPhases = (
 				D0C06457269707A800948EFE /* Sources */,
 				D0C06458269707A800948EFE /* Frameworks */,
@@ -140,9 +140,9 @@
 			);
 			dependencies = (
 			);
-			name = "Demo-ShazamKit (macOS)";
+			name = "ShazamKit - A first look (macOS)";
 			productName = "Demo-ShazamKit (macOS)";
-			productReference = D0C0645B269707A800948EFE /* Demo-ShazamKit.app */;
+			productReference = D0C0645B269707A800948EFE /* ShazamKit - A first look.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -163,7 +163,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D0C0644C269707A600948EFE /* Build configuration list for PBXProject "Demo-ShazamKit" */;
+			buildConfigurationList = D0C0644C269707A600948EFE /* Build configuration list for PBXProject "ShazamKit - A first look" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -176,8 +176,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D0C06454269707A800948EFE /* Demo-ShazamKit (iOS) */,
-				D0C0645A269707A800948EFE /* Demo-ShazamKit (macOS) */,
+				D0C06454269707A800948EFE /* ShazamKit - A first look (iOS) */,
+				D0C0645A269707A800948EFE /* ShazamKit - A first look (macOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -356,7 +356,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "";
 				INFOPLIST_KEY_CFBundleDisplayName = ShazamKit;
-				INFOPLIST_KEY_CFBundleExecutable = "Demo-ShazamKit";
+				INFOPLIST_KEY_CFBundleExecutable = "ShazamKit---A-first-look";
 				INFOPLIST_KEY_CFBundleName = "Demo-ShazamKit";
 				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -371,7 +371,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Demo-ShazamKit";
-				PRODUCT_NAME = "Demo-ShazamKit";
+				PRODUCT_NAME = "ShazamKit - A first look";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -394,7 +394,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "";
 				INFOPLIST_KEY_CFBundleDisplayName = ShazamKit;
-				INFOPLIST_KEY_CFBundleExecutable = "Demo-ShazamKit";
+				INFOPLIST_KEY_CFBundleExecutable = "ShazamKit---A-first-look";
 				INFOPLIST_KEY_CFBundleName = "Demo-ShazamKit";
 				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -409,7 +409,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Demo-ShazamKit";
-				PRODUCT_NAME = "Demo-ShazamKit";
+				PRODUCT_NAME = "ShazamKit - A first look";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -433,6 +433,9 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleExecutable = "ShazamKit - A first look";
+				INFOPLIST_KEY_CFBundleName = "ShazamKit - A first look";
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -441,7 +444,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Demo-ShazamKit";
-				PRODUCT_NAME = "Demo-ShazamKit";
+				PRODUCT_NAME = "ShazamKit - A first look";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -462,6 +465,9 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleExecutable = "ShazamKit - A first look";
+				INFOPLIST_KEY_CFBundleName = "ShazamKit - A first look";
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -470,7 +476,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Demo-ShazamKit";
-				PRODUCT_NAME = "Demo-ShazamKit";
+				PRODUCT_NAME = "ShazamKit - A first look";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -480,7 +486,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D0C0644C269707A600948EFE /* Build configuration list for PBXProject "Demo-ShazamKit" */ = {
+		D0C0644C269707A600948EFE /* Build configuration list for PBXProject "ShazamKit - A first look" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0C06462269707A800948EFE /* Debug */,
@@ -489,7 +495,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0C06464269707A800948EFE /* Build configuration list for PBXNativeTarget "Demo-ShazamKit (iOS)" */ = {
+		D0C06464269707A800948EFE /* Build configuration list for PBXNativeTarget "ShazamKit - A first look (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0C06465269707A800948EFE /* Debug */,
@@ -498,7 +504,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0C06467269707A800948EFE /* Build configuration list for PBXNativeTarget "Demo-ShazamKit (macOS)" */ = {
+		D0C06467269707A800948EFE /* Build configuration list for PBXNativeTarget "ShazamKit - A first look (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0C06468269707A800948EFE /* Debug */,
