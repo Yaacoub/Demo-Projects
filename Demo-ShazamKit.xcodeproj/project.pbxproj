@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0894EED269859DC00F6C0AA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D0894EEC269859DC00F6C0AA /* README.md */; };
+		D0894EEE269859DC00F6C0AA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D0894EEC269859DC00F6C0AA /* README.md */; };
 		D0C0645C269707A800948EFE /* Demo_ShazamKitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C0644E269707A600948EFE /* Demo_ShazamKitApp.swift */; };
 		D0C0645D269707A800948EFE /* Demo_ShazamKitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C0644E269707A600948EFE /* Demo_ShazamKitApp.swift */; };
 		D0C0645E269707A800948EFE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C0644F269707A600948EFE /* ContentView.swift */; };
@@ -22,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0894EEC269859DC00F6C0AA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D0C0644E269707A600948EFE /* Demo_ShazamKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_ShazamKitApp.swift; sourceTree = "<group>"; };
 		D0C0644F269707A600948EFE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D0C06450269707A800948EFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -54,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				D0C0644D269707A600948EFE /* Shared */,
+				D0894EEC269859DC00F6C0AA /* README.md */,
 				D0C06456269707A800948EFE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -183,6 +187,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0894EED269859DC00F6C0AA /* README.md in Resources */,
 				D0C06460269707A800948EFE /* Assets.xcassets in Resources */,
 				D0C064A12697100600948EFE /* Audio.mp3 in Resources */,
 			);
@@ -192,6 +197,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0894EEE269859DC00F6C0AA /* README.md in Resources */,
 				D0C06461269707A800948EFE /* Assets.xcassets in Resources */,
 				D0C064A22697100600948EFE /* Audio.mp3 in Resources */,
 			);
