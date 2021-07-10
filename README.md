@@ -1,13 +1,13 @@
 # Demo Projects
 
-A collection of all the demo projects I made.
+A collection of all the demo projects, code files and snippets I made.
 <br>
-Most of them are associated with an article I published on my website.
+Most of them are associated with an article I published or will publish on my website.
 
 ## Swift
 
-- 2021/07/28 - [ShazamKit: A first look](<Swift/ShazamKit - A first look>)
+- 2021/07/28 - [ShazamKit: A first look](https://github.com/Yaacoub-Organisation/shazamkit-a-first-look.git)
 
 ## Swift Tips
 
-- 2021/07/28 - [Animate UICollectionViewCell highlight](<Swift Tips/Animate UICollectionViewCell highlight>)
+- 2021/07/28 - [Animate UICollectionViewCell highlight](https://github.com/Yaacoub-Organisation/animate-uicollectionviewcell-highlight.git)
