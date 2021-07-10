@@ -11,3 +11,5 @@ Most of them are associated with an article I published or will publish on my we
 ## Swift Tips
 
 - 2021/07/28 - [Animate UICollectionViewCell highlight](https://github.com/Yaacoub-Organisation/animate-uicollectionviewcell-highlight.git)
+- 2021/07/28 - [Blur UIViewController background](https://github.com/Yaacoub-Organisation/blur-uiviewcontroller-background.git)
+- 2021/07/28 - [Present MFMailComposeViewController](https://github.com/Yaacoub-Organisation/present-mfmailcomposeviewcontroller.git)
