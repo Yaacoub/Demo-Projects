@@ -8,7 +8,7 @@ Most of them are associated with an article I published or will publish on my we
 
 - 2021/07/28 - [ShazamKit: A first look](https://github.com/Yaacoub-Organisation/shazamkit-a-first-look.git)
 
-## Swift Tips
+## Swift Tip
 
 - 2021/07/28 - [Animate UICollectionViewCell highlight](https://github.com/Yaacoub-Organisation/animate-uicollectionviewcell-highlight.git)
 - 2021/07/28 - [Blur UIViewController background](https://github.com/Yaacoub-Organisation/blur-uiviewcontroller-background.git)
